@@ -1,5 +1,3 @@
-aiogram
+aiogram>=3.0.0
 yt-dlp
-pytz
-apscheduler
 aiohttp
